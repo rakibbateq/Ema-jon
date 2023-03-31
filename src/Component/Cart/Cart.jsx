@@ -24,7 +24,7 @@ const Cart = (props) => {
             
                 <h4>Order summary</h4>
                 <p>Selected Items : {cart.length} </p>
-                <p>Selected item :{[]}</p>
+              
                 <p>Total Price : $ {total}</p>
                 <p>Total Shipping : $ {shipping}</p>
 
